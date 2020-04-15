@@ -1,0 +1,9 @@
+# This is a sample command please replace with correct command
+spring:
+  application:
+    name: assignment4
+eurek:
+  client:
+    enabled: false
+server:
+  port: 51000
